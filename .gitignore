@@ -1,1 +1,3 @@
 __pycache__/
+*.part
+*.aria2
