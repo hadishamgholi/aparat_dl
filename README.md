@@ -4,7 +4,7 @@ simple aparat downloader
 ## usage:
 
 ```
-$ aparat_dl <video-aparat-page>
+$ ./aparat_dl.py <video-aparat-page>
 ```
 
 supported download managers:
